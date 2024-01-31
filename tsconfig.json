@@ -2,7 +2,7 @@
   "extends": "astro/tsconfigs/strict",
   "compilerOptions": {
     "allowImportingTsExtensions": true,
-    "baseUrl": "/Users/admin/Documents/personal/2024-projects/astro_tutorial",
+    "baseUrl": "./",
     "paths": {
       "@components/*": [
         "src/components/*"
